@@ -277,13 +277,13 @@ function create_config( )
     "stats",
     "server"
     },
-    sudo_users = {239350998,0,tonumber(our_id)},--Sudo users
+    sudo_users = {590183272},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[SuperCreed :
 https://github.com/Creedsteam/SuperCreed
 A bot based on Teleseed Source !
-<b>Creator :</b> @Mr_Creed
-<b>Channel :</b> @IR_TEAM
+<b>Creator :</b> @Mr_Badbooy
+<b>Channel :</b> @xodshenasii
 Dont forget to rate us on Github ! <3
 ]],
     help_text_realm = [[
